@@ -12,23 +12,13 @@ your selection header will be used to reference location of destination.
 - [Goals](#Goals)
 - [Matrics](#Matrics)
 - [Conclusion and Recommendation](#Conclusion_and_Recommendation) 
-- [Preference](#Preference)
 - [Author info](#Author_info)
  
 -----
 
 ## **Short Project Blurb**
-One of the things needed in the monetization process for a YouTube channel is to have 4000 hours of broadcast time for 12 months and have a minimum of 1000 subscribers. To get the terms of the length of broadcast hours, visitors are not only sought to be able to visit but they must be able to watch as long as possible on our content.
-The importance of a high number of views will greatly support the amount of time the content appears.
-The data used in this analysis comes from YouTube statistics in India consisting of 36790 data and 1390 Channels collected in December 2017-June 2018. Based on this data, it raises the question of how can we be successful in building a YouTube channel in India?. This of course will be answered by analyzing the characteristics of users who come from India and ensuring that several important parameters must be formed as perfect as possible. So this is the background for analyzing the YouTube views data in order to find tips and tricks to produce a quality YouTube channel with lots of views.
-
-
-
-salah satu hal yang dibutuhkan dalam proses monetasi channle youtube ialah harus memiliki jam tayang sebanyak 4000 jam selama 12 bulan dan telah memiliki minimal 1000 subsciber. untuk mendapatkan syarat lamanya jam tayang, pengunjung tidak hanya diupayakan dapat berkunjung namun mereka harus mampu menonton selama mungkin pada konten kita.
-Pentingnya jumlah views yang tinggi akan sangat mendukung jumlah waktu tayang content tersebut.
-Data yang digunakan dalam analisa ini berasal dari YouTube satatistic pada negara india terdiri dari 36790 data dan 1390 Channels yang dikumpulkan pada Desember 2017- June 2018. berdasarkan data tersebut, memunculkan pertanyaan bagaimana kita bisa standing/berhasil dalam membangun channel youtube di india?. Hal ini tentunya akan terjawab dengan analisa karakteristik dari user yang berasal dari india dan memestikan beberapa parameter penting yang harus dibentuk sesempurna mungkin. Sehingga hal inilah yang melatarbelakangi analisa data YouTube views ini guna menemukan tips dan trick untuk menghasilkan channel youtube yang berkualitas dengan view yang banyak.
-
-dimulai dengan ditemukannya beberapa parameter panting yang harus dibentuk secara sempurna, saya akan memberikan beberapa rekomendasi solusi untuk mengoptimasi. selain itu, hasil prediksi tentukan dapat disimpan dan disimulasikan kembali pada data test yang lain untuk memprediksi kesuksesan dari channel yang dibangun.
+   Two things that needed in the monetization process for a YouTube channel is to have 4000 hours of broadcast time for 12 months and have a minimum of 1000 subscribers. To get the terms of the length of broadcast hours, visitors are not only sought to be able to visit but they must be able to watch as long as possible on our content. The importance of a high number of views will greatly support the amount of time the content appears.
+   The data used in this analysis comes from YouTube statistics in India consisting of 36790 data and 1390 Channels collected in December 2017-June 2018. Based on this data, it raises the question of **_how can we be successful in building a YouTube channel in India?_**. This of course will be answered by analyzing the characteristics of users who come from India and ensuring that several important parameters must be formed as perfect as possible. So this is the background for analyzing the YouTube views data in order to find tips and tricks to produce a quality YouTube channel with lots of views.
 
 -----
 ## **Goals** : 
@@ -56,7 +46,7 @@ Based on evaluation modelling result, RandomForest gave the better result than o
 
 ## Conclusion and Recommendation
 
-From Modelling we found some features that should be paying attention for create the channel to get more views. These features will shown in the image below.
+From Modelling we found some features that should be paying attention for create the channel to get more views. These features will shown in the image below and score representing the percentage of feature affect to the views.
 
 ![Featue Important](https://github.com/FransRiantoni/YouTube_Views_Prediction/blob/main/Feature%20Important%20from%20Modelling.png)
 
@@ -83,11 +73,16 @@ Final quote:
 "The more time they spend on your videos, the more positive signals get sent to YouTube’s algorithm."
 
 
-----
-## Preference
+
+
+# Gracias
 
 -----
 # About Author 
 
+[LinkedIN - Frans Riantoni](https://www.linkedin.com/in/frans-riantoni-purba/)
+
+[Medium - Frans Riantoni](https://medium.com/me/stories/public)
+
+
 ---
-https://www.youtube.com/watch?v=bpdvNwvEeSE 
