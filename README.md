@@ -46,7 +46,7 @@ Based on evaluation modelling result, RandomForest gave the better result than o
 
 ## Conclusion and Recommendation
 
-From Modelling we found some features that should be paying attention for create the channel to get more views. These features will shown in the image below and score representing the percentage of feature affect to the views.
+From Modelling we found some features that should be paying attention for create the channel to get more views. These features will shown in the image below and score representing the percentage of feature affect the views.
 
 ![Featue Important](https://github.com/FransRiantoni/YouTube_Views_Prediction/blob/main/Feature%20Important%20from%20Modelling.png)
 
@@ -62,11 +62,12 @@ These are a few solution or tips for create features perfecly.
 Some Indication that we can use to see video will be get more viewers : 
 
 1. Sum of Likes
-  We also can add a button that represent the like such as **Like End Screens/UnLike End Screens** for get their participation and request to watch more videos.
+   
+   We also can add a button that represent the like such as **Like End Screens/UnLike End Screens** for get their participation and request to watch more videos.
 
 2. Faster_Tranding
-  
-  The Tranding Video must have a large number of views. In this case,  it is necessary to look at the average time of video that can be seen by many people. If the time extent to tranding does not reach the value of views that should be, this indicates that the content will not have high views.
+   
+   The Tranding Video must have a large number of views. In this case,  it is necessary to look at the average time of video that can be seen by many people. If the time extent to tranding does not reach the value of views that should be, this indicates that the content will not have high views.
 
 
 Final quote:
