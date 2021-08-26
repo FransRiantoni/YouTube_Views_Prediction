@@ -18,7 +18,7 @@ your selection header will be used to reference location of destination.
 
 ## **Short Project Blurb**
    Two things that needed in the monetization process for a YouTube channel is to have 4000 hours of broadcast time for 12 months and have a minimum of 1000 subscribers. To get the terms of the length of broadcast hours, visitors are not only sought to be able to visit but they must be able to watch as long as possible on our content. The importance of a high number of views will greatly support the amount of time the content appears.
-   The data used in this analysis comes from YouTube statistics in India consisting of 36790 data and 1390 Channels collected in December 2017-June 2018. Based on this data, it raises the question of **_how can we be successful in building a YouTube channel in India?_**. This of course will be answered by analyzing the characteristics of users who come from India and ensuring that several important parameters must be formed as perfect as possible. So this is the background for analyzing the YouTube views data in order to find tips and tricks to produce a quality YouTube channel with lots of views.
+   The data used in this analysis comes from YouTube statistics in India consisting of 36790 data and 1390 Channels collected in December 2017-June 2018. Based on this data, it raises the question of **_how can we be successful in building a YouTube channel in India?_**. This will be answered by analyzing the characteristics of users who come from India and ensuring that several important parameters must be formed as perfect as possible. So this is the background for analyzing the YouTube views data in order to find tips and tricks to produce a quality YouTube channel with lots of views.
 
 -----
 ## **Goals** : 
